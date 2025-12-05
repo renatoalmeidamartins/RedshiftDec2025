@@ -19,6 +19,8 @@
 - [Using DMS for migrating to RDS](https://docs.aws.amazon.com/dms/latest/sbs/chap-manageddatabases.html)
 - [Using Sagemaker AI's algorithms into Redshift ML](https://docs.aws.amazon.com/dms/latest/sbs/chap-manageddatabases.html)
 - [Introduction of RA3 nodes in Redshift - independent managed storage](https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-redshift-announces-ra3-nodes-managed-storage/)
+- [Another article announcing RA3 and its managed storage](https://aws.amazon.com/blogs/aws/amazon-redshift-update-next-generation-compute-instances-and-managed-analytics-optimized-storage/)
+- [And finally, a third one about the same RA3 availability](https://aws.amazon.com/blogs/aws/amazon-redshift-update-next-generation-compute-instances-and-managed-analytics-optimized-storage)
 - [Materialized views in Redshift](https://docs.aws.amazon.com/redshift/latest/dg/materialized-view-overview.html)
 - [Concurrency scaling](https://docs.aws.amazon.com/redshift/latest/dg/concurrency-scaling.html)
 - [Redshift Data API](https://docs.aws.amazon.com/redshift/latest/mgmt/data-api.html)
