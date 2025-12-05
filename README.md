@@ -21,3 +21,5 @@
 - [Introduction of RA3 nodes in Redshift - independent managed storage](https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-redshift-announces-ra3-nodes-managed-storage/)
 - [Materialized views in Redshift](https://docs.aws.amazon.com/redshift/latest/dg/materialized-view-overview.html)
 - [Concurrency scaling](https://docs.aws.amazon.com/redshift/latest/dg/concurrency-scaling.html)
+- [Redshift Data API](https://docs.aws.amazon.com/redshift/latest/mgmt/data-api.html)
+- [Redshift provisioned clusters - pay special attention to the number of slices per node, in the "Node type details" section](https://docs.aws.amazon.com/redshift/latest/mgmt/working-with-clusters.html)
