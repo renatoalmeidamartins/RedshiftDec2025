@@ -7,6 +7,15 @@
   - Organization SSO
   - One-time email passcode
 - [Skill builder](https://skillbuilder.aws/learn)
+  ## Class evaluation
+- Go to [aws.training](https://www.aws.training/)
+- Click sign in, log in with the same account you used to access the lab and course materials
+- Then go on the top right to My Account, then transcript, click on the Archived section (direct link [https://www.aws.training/Account/Transcript/Archived](https://www.aws.training/Account/Transcript/Archived)
+- You should see the class, with a button to evaluate
+
+## Contact details
+- email: renatoalmeidamartins@gmail.com
+- [Linkedin profile](https://www.linkedin.com/in/renatodealmeidamartins/)
 ## Content links
 - [Federated querying with Redshift](https://docs.aws.amazon.com/redshift/latest/dg/federated-overview.html)
 - [Data Exchange](https://aws.amazon.com/data-exchange/)
