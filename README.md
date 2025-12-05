@@ -36,4 +36,6 @@
 - [Column encodings - compression - you can use ENCODE AUTO](https://docs.aws.amazon.com/redshift/latest/dg/c_Compression_encodings.html)
 - [Analyze compression - command to identify the potential space savings by using a recommended compression for a column](https://docs.aws.amazon.com/redshift/latest/dg/r_ANALYZE_COMPRESSION.html)
 - [Vacuuming tables - can be done in an automated way](https://docs.aws.amazon.com/redshift/latest/dg/t_Reclaiming_storage_space202.html)
-- [Redshift advisor](https://docs.aws.amazon.com/redshift/latest/dg/advisor-recommendations.html)
+- [Redshift advisor recommendations](https://docs.aws.amazon.com/redshift/latest/dg/advisor-recommendations.html)
+- [Resizing a cluster](https://docs.aws.amazon.com/redshift/latest/mgmt/resizing-cluster.html)
+- [Row level security](https://docs.aws.amazon.com/redshift/latest/dg/t_rls-example.html)
