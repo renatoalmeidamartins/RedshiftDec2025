@@ -33,4 +33,7 @@
 - [Lambda UDFs](https://docs.aws.amazon.com/redshift/latest/dg/user-defined-functions.html)
 - [UNLOAD, dumping data from Redshift into S3](https://docs.aws.amazon.com/redshift/latest/dg/c_unloading_data.html)
 - [Data shares](https://docs.aws.amazon.com/redshift/latest/dg/datashare-overview.html)
-- 
+- [Column encodings - compression - you can use ENCODE AUTO](https://docs.aws.amazon.com/redshift/latest/dg/c_Compression_encodings.html)
+- [Analyze compression - command to identify the potential space savings by using a recommended compression for a column](https://docs.aws.amazon.com/redshift/latest/dg/r_ANALYZE_COMPRESSION.html)
+- [Vacuuming tables - can be done in an automated way](https://docs.aws.amazon.com/redshift/latest/dg/t_Reclaiming_storage_space202.html)
+- [Redshift advisor](https://docs.aws.amazon.com/redshift/latest/dg/advisor-recommendations.html)
