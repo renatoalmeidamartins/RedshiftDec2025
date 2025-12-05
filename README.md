@@ -11,3 +11,7 @@
 - [Federated querying with Redshift](https://docs.aws.amazon.com/redshift/latest/dg/federated-overview.html)
 - [Data Exchange](https://aws.amazon.com/data-exchange/)
 - [Amazon S3 tables](https://aws.amazon.com/blogs/aws/new-amazon-s3-tables-storage-optimized-for-analytics-workloads/)
+- [Redshift data types - pay special to the SUPER type, meant for semi-structured data](https://docs.aws.amazon.com/redshift/latest/dg/c_Supported_data_types.html)
+- [Redshift ](https://docs.aws.amazon.com/redshift/latest/dg/c_redshift-and-postgres-sql.html)
+- [Aurora storage, with automatic replication across availability zones](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Overview.StorageReliability.html#Aurora.Overview.Storage)
+- 
