@@ -17,3 +17,7 @@
 - [Using Redshift Spectrum](https://docs.aws.amazon.com/redshift/latest/dg/c-getting-started-using-spectrum.html#c-getting-started-using-spectrum-create-external-table)
 - [Redshift as a target for DMS](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.Redshift.html)
 - [Using DMS for migrating to RDS](https://docs.aws.amazon.com/dms/latest/sbs/chap-manageddatabases.html)
+- [Using Sagemaker AI's algorithms into Redshift ML](https://docs.aws.amazon.com/dms/latest/sbs/chap-manageddatabases.html)
+- [Introduction of RA3 nodes in Redshift - independent managed storage](https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-redshift-announces-ra3-nodes-managed-storage/)
+- [Materialized views in Redshift](https://docs.aws.amazon.com/redshift/latest/dg/materialized-view-overview.html)
+- [Concurrency scaling](https://docs.aws.amazon.com/redshift/latest/dg/concurrency-scaling.html)
