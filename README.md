@@ -39,3 +39,5 @@
 - [Redshift advisor recommendations](https://docs.aws.amazon.com/redshift/latest/dg/advisor-recommendations.html)
 - [Resizing a cluster](https://docs.aws.amazon.com/redshift/latest/mgmt/resizing-cluster.html)
 - [Row level security](https://docs.aws.amazon.com/redshift/latest/dg/t_rls-example.html)
+- [Pausing and resuming cluster](https://docs.aws.amazon.com/redshift/latest/mgmt/rs-mgmt-pause-resume-cluster.html)
+- 
