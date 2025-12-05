@@ -10,3 +10,4 @@
 ## Content links
 - [Federated querying with Redshift](https://docs.aws.amazon.com/redshift/latest/dg/federated-overview.html)
 - [Data Exchange](https://aws.amazon.com/data-exchange/)
+- [Amazon S3 tables](https://aws.amazon.com/blogs/aws/new-amazon-s3-tables-storage-optimized-for-analytics-workloads/)
