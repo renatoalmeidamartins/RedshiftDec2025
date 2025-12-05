@@ -23,3 +23,4 @@
 - [Concurrency scaling](https://docs.aws.amazon.com/redshift/latest/dg/concurrency-scaling.html)
 - [Redshift Data API](https://docs.aws.amazon.com/redshift/latest/mgmt/data-api.html)
 - [Redshift provisioned clusters - pay special attention to the number of slices per node, in the "Node type details" section](https://docs.aws.amazon.com/redshift/latest/mgmt/working-with-clusters.html)
+- [Ingesting streaming data from Kinesis data streams into Redshift](https://docs.aws.amazon.com/redshift/latest/dg/materialized-view-streaming-ingestion-getting-started.html)
