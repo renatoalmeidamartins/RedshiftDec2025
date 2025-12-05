@@ -28,3 +28,9 @@
 - [Ingesting streaming data from Kinesis data streams into Redshift](https://docs.aws.amazon.com/redshift/latest/dg/materialized-view-streaming-ingestion-getting-started.html)
 - [Introduction of multi-AZ support in Redshift](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-multi-az-ra3-clusters/)
 - [Distribution styles in Redshift](https://docs.aws.amazon.com/redshift/latest/dg/c_choosing_dist_sort.html)
+- [Automated materialized views](https://docs.aws.amazon.com/redshift/latest/dg/materialized-view-auto-mv.html)
+- [Stored procedures](https://docs.aws.amazon.com/redshift/latest/dg/stored-procedure-overview.html)
+- [Lambda UDFs](https://docs.aws.amazon.com/redshift/latest/dg/user-defined-functions.html)
+- [UNLOAD, dumping data from Redshift into S3](https://docs.aws.amazon.com/redshift/latest/dg/c_unloading_data.html)
+- [Data shares](https://docs.aws.amazon.com/redshift/latest/dg/datashare-overview.html)
+- 
