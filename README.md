@@ -24,3 +24,5 @@
 - [Redshift Data API](https://docs.aws.amazon.com/redshift/latest/mgmt/data-api.html)
 - [Redshift provisioned clusters - pay special attention to the number of slices per node, in the "Node type details" section](https://docs.aws.amazon.com/redshift/latest/mgmt/working-with-clusters.html)
 - [Ingesting streaming data from Kinesis data streams into Redshift](https://docs.aws.amazon.com/redshift/latest/dg/materialized-view-streaming-ingestion-getting-started.html)
+- [Introduction of multi-AZ support in Redshift](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-multi-az-ra3-clusters/)
+- [Distribution styles in Redshift](https://docs.aws.amazon.com/redshift/latest/dg/c_choosing_dist_sort.html)
