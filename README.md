@@ -7,3 +7,6 @@
   - Organization SSO
   - One-time email passcode
 - [Skill builder](https://skillbuilder.aws/learn)
+## Content links
+- [Federated querying with Redshift](https://docs.aws.amazon.com/redshift/latest/dg/federated-overview.html)
+- [Data Exchange](https://aws.amazon.com/data-exchange/)
